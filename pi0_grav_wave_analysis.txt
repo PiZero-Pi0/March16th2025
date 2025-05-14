@@ -1,0 +1,10 @@
+Error processing detector H1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
+
+Error processing detector L1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
+
+Error processing segment 1 for detector H1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
+Error processing segment 2 for detector H1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
+Error processing segment 3 for detector H1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
+Error processing segment 1 for detector L1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
+Error processing segment 2 for detector L1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
+Error processing segment 3 for detector L1:GWOSC-STRAIN: TimeSeriesBase.fetch_open_data() missing 1 required positional argument: 'end'
